@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Энэ сайт мангар хурдан ажиллаж байна ULTRA SHIT{' '}
-          <code className={styles.code}>pages/index.js</code>
+          <code className={styles.code}>hehehehe</code>
         </p>
 
         <div className={styles.grid}>
